@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "My config for eslint, prettier, eg.",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +19,7 @@
     "config"
   ],
   "author": "dmcs",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/RuinousCheng/share-config/issues"
   },
