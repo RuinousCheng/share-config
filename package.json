@@ -1,0 +1,24 @@
+{
+  "name": "@dmcs/share-config",
+  "version": "1.0.0",
+  "description": "My config for eslint, prettier, eg.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuinousCheng/share-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "config"
+  ],
+  "author": "dmcs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuinousCheng/share-config/issues"
+  },
+  "homepage": "https://github.com/RuinousCheng/share-config#readme"
+}
